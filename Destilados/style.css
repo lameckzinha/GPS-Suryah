@@ -29,9 +29,9 @@ body{
 }
 
 h2{
-    color: #ffffff;
+    color: #000000;
     font-size: 2.8rem !important;
-    text-shadow: 2px 2px #090909;
+    text-shadow: 2px 2px #ffffff;
     font-weight: 900 !important;
     margin-top: 4vh !important;
     letter-spacing: 6px;
